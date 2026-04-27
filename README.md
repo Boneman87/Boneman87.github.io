@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Oluwasaanu Joseph Akinniyi
 
-I'm an **Enterprise Infrastructure Specialist** and **Multi-Cloud Engineer**. **. I specialize in building resilient, automated systems with a focus on data integrity and high-scale cloud architecture.I specialize in building reliable, automated systems with a strong focus on data resiliency and cloud-native architecture.
+An **Enterprise Infrastructure Specialist** and **Multi-Cloud Engineer**. ** and a specialist in building resilient, automated systems with a focus on data integrity and high-scale cloud architecture.
+I also build reliable, automated systems with a strong focus on data resiliency and cloud-native architecture.
 
 ### 🎓 Certifications & Badges
 <p align="left">
