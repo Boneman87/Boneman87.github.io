@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Oluwasaanu Joseph Akinniyi
 
-An **Enterprise Infrastructure Specialist** and **Multi-Cloud Engineer** and a specialist in building resilient, automated systems with a focus on data integrity and high-scale cloud architecture.
-I also build reliable, automated systems with a strong focus on data resiliency and cloud-native architecture.
+An **Enterprise Infrastructure Specialist** and **Multi-Cloud Engineer**
+I build high-scale, cloud-native systems that prioritize data integrity and automated resilience to handle mission-critical workloads.
 
 ### 🎓 Certifications & Badges
 <p align="left">
@@ -16,7 +16,8 @@ I also build reliable, automated systems with a strong focus on data resiliency 
 - ☁️ Designing multi-cloud architectures across **AWS** and **Azure**.
 
 ### 🏗️ Current Focus & Roadmap
-I’m currently deepening my expertise in DevOps and Orchestration. My goals for this year include:
+I am currently deepening my expertise in DevOps and Orchestration.
+My goals for this year include:
 - [ ] **CKA** (Certified Kubernetes Administrator)
 - [ ] **AZ-204** (Developing Solutions for Microsoft Azure)
 - [ ] **AZ-400** (Designing and Implementing Microsoft DevOps Solutions)
@@ -24,7 +25,7 @@ I’m currently deepening my expertise in DevOps and Orchestration. My goals for
 
 
 ### 🎓 2026 Learning Roadmap & Certifications
-I'm committed to continuous growth. This year, I'm working toward:
+Currently deepening my expertise in DevOps and Orchestration. Working towards the following certifcations this year:
 - [x] **AWS Certified Solutions Architect – Associate** (Earned!)
 - [ ] **CKA** (Certified Kubernetes Administrator)
 - [ ] **AZ-204** (Developing Solutions for Microsoft Azure)
@@ -32,7 +33,6 @@ I'm committed to continuous growth. This year, I'm working toward:
 - [ ] **AWS Certified DevOps Engineer – Professional**
 
 ### 🛠️ Tech Stack & Tools
-
 #### **Enterprise Infrastructure & Data Protection**
 I have extensive experience managing and protecting mission-critical data at scale:
 - **Primary Storage:** Dell PowerMax, PowerStore, VMAX, Unity.
@@ -48,13 +48,9 @@ I spend my weekends building and automating in the cloud-native ecosystem:
 - **Specialty:** Data Resiliency, Disaster Recovery, Automation
 - **Interested in:** Kubernetes, Terraform, CI/CD Pipelines
 
-### 🛠️ Expertise
-- **Infrastructure:** Data Resiliency, Disaster Recovery, & System Reliability.
-- **Cloud:** AWS (Certified since 2024), Google Cloud, and Azure.
-- **Automation:** Designing workflows that make complex systems self-healing.
-
 ### 📫 How to reach me
 - **LinkedIn:** [://linkedin.com [linkedin.com]](https://www.:// [www.]linkedin.com/ [linkedin.com])
+- **LinkedIn:** [://linkedin.com [linkedin.com]](https://www.linkedin.com/in/saanuakinniyi/)
 - **Location:** Lagos, Nigeria 🇳🇬
 
 ---
