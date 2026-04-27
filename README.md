@@ -49,8 +49,6 @@ I spend my weekends building and automating in the cloud-native ecosystem:
 - **Interested in:** Kubernetes, Terraform, CI/CD Pipelines
 
 ### 📫 How to reach me
-- **LinkedIn:** [://linkedin.com [linkedin.com]](https://www.:// [www.]linkedin.com/ [linkedin.com])
-- **LinkedIn:** [://linkedin.com [linkedin.com]](https://www.linkedin.com/in/saanuakinniyi/)
 - **LinkedIn:** (https://www.linkedin.com/in/saanuakinniyi/)
 - **Location:** Lagos, Nigeria 🇳🇬
 
